@@ -1,6 +1,6 @@
 OFFSCREEN: Funghi, grazie! Ho bisogno dei funghi!
 
-Pipistrello: Chanterelle o veellutati?
+Pipistrello: Chanterelle o vellutati?
 
 Cervo: Chanterelle.
 Pipistrello: Sei sicuro? Mi sembra di ricordare...
