@@ -1,0 +1,13 @@
+OFFSCREEN: Funghi, grazie! Ho bisogno dei funghi!
+
+Pipistrello: Chanterelle o veellutati?
+
+Cervo: Chanterelle.
+Pipistrello: Sei sicuro? Mi sembra di ricordare...
+Cervo: <em>Chanterelle.</em>
+
+Pipistrello: D'accordo! Chanterelle in arrivo!
+
+Pipistrello: Mentre lavori al cibo di Tess, Mi preparo per la Signora Cori!
+
+OFFSCREEN: <em>ARGH!!</em>
