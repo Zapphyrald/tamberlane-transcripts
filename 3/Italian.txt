@@ -1,4 +1,4 @@
-OFFSCREEN: Funghi, grazie! Ho bisogno dei funghi!
+OFFSCREEN: Funghi, per favore! Ho bisogno dei funghi!
 
 Pipistrello: Chanterelle o vellutati?
 
